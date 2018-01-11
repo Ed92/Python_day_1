@@ -1,6 +1,6 @@
-#Space Invaders - Part 1
+#Space Invaders
 #Set up the screen
-#Python 3.0 on Windows
+#Python 3.6 on Windows
 import turtle
 import os
 
@@ -135,7 +135,8 @@ while True:
         bullet.hideturtle()
         bulletstate = "ready"
 
-    
+
+
 
 
 
